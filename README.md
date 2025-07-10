@@ -24,8 +24,8 @@ Explicit Animations (e.g., AnimationController, Tween, AnimatedBuilder) for inte
 🧩 Component Reusability: Created modular widgets for meal cards, filter toggles, and animated transitions.<br>
 
 Impact:
-Delivered a polished, responsive UI with fluid animations and interactive transitions enhancing overall user experience.<br>
-Showcased advanced Flutter concepts like custom animation logic and global reactive state for real-world app behavior.<br>
+-> Delivered a polished, responsive UI with fluid animations and interactive transitions enhancing overall user experience.<br>
+-> Showcased advanced Flutter concepts like custom animation logic and global reactive state for real-world app behavior.<br>
 
 Here are some screenshots for the app reference :
 
